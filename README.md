@@ -1,7 +1,7 @@
 # C-CoinFlipBettingGame
 In this project, we create a GUI Coin Flipping game using Java Swing.<br>
 CLI is created first before GUI.<br>
-The game is interactive with users.
+The game is interactive with multiple players.
 ## Table of contents
 * [General Information](#general-information)
 * [Coding Style](#coding-style)
